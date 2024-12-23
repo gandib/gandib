@@ -1,4 +1,6 @@
 <a href="https://www.facebook.com/gandib-gyanangkur/">
+<img src="https://raw.githubusercontent.com/gandib/gandib/main/images/cover.png" />
+</a>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -42,9 +44,10 @@
 <img align="right" src="https://github.com/gandib/gandib/blob/main/devcard.svg" width="200" alt="Gandib Dhari Roy's Dev Card"/></a>
 </div>
 
-### 🌱 I’m exploring - New Technologies for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To build a platform where people can learn. 
+### 🌱 I’m exploring - New Technologies for web.
 
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To build a platform where people can learn.
 
 <br />
