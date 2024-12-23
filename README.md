@@ -38,6 +38,8 @@
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/css.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/postgresql.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/prisma.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/react.png"/>
@@ -50,6 +52,9 @@
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/node.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/express.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/sql.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/typescript.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/visual-studio-code.png"/>
 </p><br/>
 
 ## :eyes: Current overview
