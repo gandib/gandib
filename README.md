@@ -11,8 +11,8 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/gandib-roy-94a880219/)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Facebook.png">](https://www.facebook.com/gandib-gyanangkur)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Twitter.png"> </p>](https://x.com/gandibroy11)
-
+<p align="center">[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/gandib-roy-94a880219/)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Facebook.png">](https://www.facebook.com/gandib-gyanangkur)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Twitter.png"> ](https://x.com/gandibroy11)
+<p/>
 <br />
 
 ## :computer: Technologies that I know
