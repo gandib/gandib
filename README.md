@@ -49,9 +49,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<img align="right" src="https://github.com/gandib/gandib/blob/main/devcard.svg" width="200" alt="Gandib Dhari Roy's Dev Card"/></a>
-</div>
+
 
 ### 🌱 I’m exploring - New Technologies for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
