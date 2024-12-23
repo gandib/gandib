@@ -54,7 +54,7 @@
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/mongo.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/sql.png"/>
 <img src="https://github.com/gandib/gandib/blob/main/images/icons/typescript.png"/>
-<img src="https://github.com/gandib/gandib/blob/main/images/icons/visual-studio-code.png"/>
+<img src="https://github.com/gandib/gandib/blob/main/images/icons/vscode.png"/>
 </p><br/>
 
 ## :eyes: Current overview
