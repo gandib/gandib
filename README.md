@@ -11,7 +11,18 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/gandib-roy-94a880219/)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Facebook.png">](https://www.facebook.com/gandib-gyanangkur)[<img height="75" src="https://github.com/gandib/gandib/blob/main/images/icons/Twitter.png"><p/> ](https://x.com/gandibroy11)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gandib-roy-94a880219/">
+    <img height="75" src="https://raw.githubusercontent.com/gandib/gandib/main/images/icons/Linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/gandib-gyanangkur">
+    <img height="75" src="https://raw.githubusercontent.com/gandib/gandib/main/images/icons/Facebook.png" alt="Facebook">
+  </a>
+  <a href="https://x.com/gandibroy11">
+    <img height="75" src="https://raw.githubusercontent.com/gandib/gandib/main/images/icons/Twitter.png" alt="Twitter">
+  </a>
+</p>
+
 
 <br />
 
