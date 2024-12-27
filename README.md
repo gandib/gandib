@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/gandib-gyanangkur/">
-<img src="https://raw.githubusercontent.com/gandib/gandib/main/images/cover.png" />
+<img src="https://raw.githubusercontent.com/gandib/gandib/main/images/gandib-git-cover.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
