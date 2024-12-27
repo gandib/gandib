@@ -18,7 +18,7 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gandib-roy-94a880219/">
+  <a href="https://www.linkedin.com/in/gandib">
     <img height="75" src="https://raw.githubusercontent.com/gandib/gandib/main/images/icons/Linkedin.png" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/gandib-gyanangkur">
